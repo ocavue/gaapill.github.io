@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "transform-decorators-legacy"
+  ],
+  "passPerPreset": true,
+  "presets": [
+    "react-native-stage-0"
+  ]
+}
